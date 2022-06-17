@@ -1,4 +1,4 @@
-## Detecting digits using OpenCv
+## Detecting digits using OpenCV
 
 ### Required packages
 <table>
