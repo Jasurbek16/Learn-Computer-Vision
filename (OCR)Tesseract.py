@@ -1,5 +1,3 @@
-# Learned from the YouTube channel: Murtaza's Workshop
-# Text Detection with OpenCV in Python | OCR using Tesseract
 
 # import cv2
 # import pytesseract
@@ -67,3 +65,5 @@
 # cv2.waitKey(0) 
 
 
+# Learned from the YouTube channel: Murtaza's Workshop
+# Text Detection with OpenCV in Python | OCR using Tesseract
