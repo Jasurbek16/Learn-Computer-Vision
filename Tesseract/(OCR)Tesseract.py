@@ -2,7 +2,7 @@
 # import pytesseract
 
 # # For reading an image
-# img = cv2.imread('images/imageD.png')
+# img = cv2.imread('../images/imageD.png')
 # # For converting color of the image from BGR to RGB (BGR is default in OpenCV)
 # img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 # # Getting the shape of the image
