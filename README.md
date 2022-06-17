@@ -5,9 +5,9 @@ This repository contains codes and their explanations while learning computer vi
 The following libraries are needed for running all of the codes: <br>
 <table>
   <tr>
-    <td><code>numpy</code></td>
-    <td><code>easyocr</code></td>
     <td><code>opencv-python</code></td>
+    <td><code>numpy</code></td>
+    <td><code>sklearn</code></td>
     <td><code>pytesseract</code></td>
     <td><code>tensorflow</code></td>
   </tr>
@@ -16,7 +16,7 @@ The following libraries are needed for running all of the codes: <br>
     <td><code>torch</code></td>
     <td><code>torchvision</code></td>
     <td><code>torchaudio</code></td>
-    <td><code>sklearn</code></td>
+    
   </tr>
    <tr>
     <td><code>matplotlib</code></td>
